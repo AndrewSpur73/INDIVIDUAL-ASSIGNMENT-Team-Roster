@@ -1,0 +1,65 @@
+{
+  "-NvZBnft6yIyKgVOqClf": {
+    "uid": "u5fCCBl4kQNOZnmXbl3ufH5ZbcI2",
+    "full_name": "Kristian Antonognoli",
+    "image": "http://dummyimage.com/119x100.png/cc0000/ffffff",
+    "position": "First Base",
+    "firebaseKey": "-NvZBnft6yIyKgVOqClf"
+  },
+  "-NvZBnfuvT7gOfqQCHKY": {
+    "uid": "u5fCCBl4kQNOZnmXbl3ufH5ZbcI2",
+    "full_name": "Natale Gadsby",
+    "image": "http://dummyimage.com/230x100.png/ff4444/ffffff",
+    "position": "Second Base",
+    "firebaseKey": "-NvZBnfuvT7gOfqQCHKY"
+  },
+  "-NvZBnfvrp3C_HKT_81C": {
+    "uid": "u5fCCBl4kQNOZnmXbl3ufH5ZbcI2",
+    "full_name": "Des Ganforth",
+    "image": "http://dummyimage.com/196x100.png/dddddd/000000",
+    "position": "Third Base",
+    "firebaseKey": "-NvZBnfvrp3C_HKT_81C"
+  },
+  "-NvZBnfwX0zqxR0kb6Ha": {
+    "uid": "u5fCCBl4kQNOZnmXbl3ufH5ZbcI2",
+    "full_name": "Clarita Earry",
+    "image": "http://dummyimage.com/245x100.png/cc0000/ffffff",
+    "position": "Short-Stop",
+    "firebaseKey": "-NvZBnfwX0zqxR0kb6Ha"
+  },
+  "-NvZBnfxIPzn8xQym0lU": {
+    "uid": "u5fCCBl4kQNOZnmXbl3ufH5ZbcI2",
+    "full_name": "Hillard Gilham",
+    "image": "http://dummyimage.com/109x100.png/cc0000/ffffff",
+    "position": "Catcher",
+    "firebaseKey": "-NvZBnfxIPzn8xQym0lU"
+  },
+  "-NvZBnfyFO95pzqdStb-": {
+    "uid": "u5fCCBl4kQNOZnmXbl3ufH5ZbcI2",
+    "full_name": "Fran Dallas",
+    "image": "http://dummyimage.com/178x100.png/cc0000/ffffff",
+    "position": "Pitcher",
+    "firebaseKey": "-NvZBnfyFO95pzqdStb-"
+  },
+  "-NvZBnfzlNz6hT9CxOLK": {
+    "uid": "u5fCCBl4kQNOZnmXbl3ufH5ZbcI2",
+    "full_name": "Juliane Eagleton",
+    "image": "http://dummyimage.com/153x100.png/cc0000/ffffff",
+    "position": "Left Field",
+    "firebaseKey": "-NvZBnfzlNz6hT9CxOLK"
+  },
+  "-NvZBnfzlNz6hT9CxOLL": {
+    "uid": "u5fCCBl4kQNOZnmXbl3ufH5ZbcI2",
+    "full_name": "Mendie Weetch",
+    "image": "http://dummyimage.com/232x100.png/dddddd/000000",
+    "position": "Right Field",
+    "firebaseKey": "-NvZBnfzlNz6hT9CxOLL"
+  },
+  "-NvZBng-ppC2B37rjOTD": {
+    "uid": "u5fCCBl4kQNOZnmXbl3ufH5ZbcI2",
+    "full_name": "Calvin Bleasdille",
+    "image": "http://dummyimage.com/211x100.png/cc0000/ffffff",
+    "position": "Center Field",
+    "firebaseKey": "-NvZBng-ppC2B37rjOTD"
+  }
+}
